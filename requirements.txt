@@ -1,0 +1,6 @@
+vk_api>=11.9.9
+spotipy>=2.23.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+python-Levenshtein>=0.22.0
+
